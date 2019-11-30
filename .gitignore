@@ -1,2 +1,4 @@
-# Ignore Reaper generated peaks
+# Ignore Reaper generated peaks and wav files
 *.reapeaks
+*.wav
+
